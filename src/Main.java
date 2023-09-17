@@ -47,7 +47,6 @@ public class Main {
     var result3 = boxerWeightTwo % boxerWeightOne;
     System.out.println(result3);
 
-
     var hourWorkAll = 640;
     var hourEvery = 8;
     var worker = hourWorkAll / hourEvery;
