@@ -6,7 +6,6 @@ public class Main {
     System.out.println(dog);
     System.out.println(cat);
     System.out.println(paper);
-
     var dog2 = dog + 4;
     var cat2 = cat + 4;
     var paper2 = paper +4;
